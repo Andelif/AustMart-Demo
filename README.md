@@ -1,2 +1,3 @@
 # AustMart-Demo
-AUST app
+This is my first Git Repository
+Author - Andelif Hossain
